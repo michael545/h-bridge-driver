@@ -3875,7 +3875,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:CSD19532Q5B")
-		(at 196.85 101.6 180)
+		(at 191.77 101.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3884,7 +3884,7 @@
 		(fields_autoplaced yes)
 		(uuid "a9f748b2-9e25-4b2f-9ac1-bbf464534b7f")
 		(property "Reference" "Q4"
-			(at 190.5 100.3299 0)
+			(at 198.12 100.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3893,7 +3893,7 @@
 			)
 		)
 		(property "Value" "CSD19532Q5B"
-			(at 190.5 102.8699 0)
+			(at 198.12 102.8699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3902,7 +3902,7 @@
 			)
 		)
 		(property "Footprint" "Heatsink:Heatsink_AAVID_573300D00010G_TO-263"
-			(at 191.77 99.695 0)
+			(at 196.85 103.505 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3913,7 +3913,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/csd19532q5b"
-			(at 191.77 97.79 0)
+			(at 196.85 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3923,7 +3923,7 @@
 			)
 		)
 		(property "Description" "100A Id, 100V Vds, NexFET N-Channel Power MOSFET, 4.9mOhm Ron, 48nC Qg(typ), SON8 5x6mm"
-			(at 196.85 101.6 0)
+			(at 191.77 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4391,7 +4391,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:CSD19532Q5B")
-		(at 196.85 80.01 180)
+		(at 191.77 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4400,7 +4400,7 @@
 		(fields_autoplaced yes)
 		(uuid "d69978f0-47fc-4c57-81c4-9addd31791e0")
 		(property "Reference" "Q3"
-			(at 190.5 78.7399 0)
+			(at 198.12 78.7399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4409,7 +4409,7 @@
 			)
 		)
 		(property "Value" "CSD19532Q5B"
-			(at 190.5 81.2799 0)
+			(at 198.12 81.2799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4418,7 +4418,7 @@
 			)
 		)
 		(property "Footprint" "Heatsink:Heatsink_AAVID_573300D00010G_TO-263"
-			(at 191.77 78.105 0)
+			(at 196.85 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4429,7 +4429,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/csd19532q5b"
-			(at 191.77 76.2 0)
+			(at 196.85 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4439,7 +4439,7 @@
 			)
 		)
 		(property "Description" "100A Id, 100V Vds, NexFET N-Channel Power MOSFET, 4.9mOhm Ron, 48nC Qg(typ), SON8 5x6mm"
-			(at 196.85 80.01 0)
+			(at 191.77 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
