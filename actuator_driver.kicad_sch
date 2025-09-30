@@ -2808,7 +2808,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Heatsink:Heatsink_AAVID_573300D00010G_TO-263"
 			(at 110.49 99.822 90)
 			(effects
 				(font
@@ -3302,7 +3302,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC28_18X7P5_ONS"
+		(property "Footprint" ""
 			(at 50.8 88.9 0)
 			(effects
 				(font
@@ -3586,7 +3586,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1"
+		(property "Footprint" "Heatsink:Heatsink_AAVID_573300D00010G_TO-263"
 			(at 191.77 99.695 0)
 			(effects
 				(font
@@ -3800,7 +3800,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1"
+		(property "Footprint" "Heatsink:Heatsink_AAVID_573300D00010G_TO-263"
 			(at 160.02 103.505 0)
 			(effects
 				(font
@@ -3882,7 +3882,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1"
+		(property "Footprint" "Heatsink:Heatsink_AAVID_573300D00010G_TO-263"
 			(at 160.02 81.915 0)
 			(effects
 				(font
@@ -4032,7 +4032,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 101.2952 105.41 0)
 			(effects
 				(font
@@ -4102,7 +4102,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1"
+		(property "Footprint" "Heatsink:Heatsink_AAVID_573300D00010G_TO-263"
 			(at 191.77 78.105 0)
 			(effects
 				(font
@@ -4182,7 +4182,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Heatsink:Heatsink_AAVID_573300D00010G_TO-263"
 			(at 110.49 89.662 90)
 			(effects
 				(font
@@ -4252,7 +4252,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 101.2952 87.63 0)
 			(effects
 				(font
